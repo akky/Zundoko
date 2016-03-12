@@ -1,0 +1,5 @@
+{
+    "require": {
+        "piece/stagehand-fsm": "2.4.*"
+    }
+}
