@@ -1,5 +1,5 @@
 {
     "require": {
-        "piece/stagehand-fsm": "2.4.*"
+        "piece/stagehand-fsm": "2.6.*"
     }
 }
